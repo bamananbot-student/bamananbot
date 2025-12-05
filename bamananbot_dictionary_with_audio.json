@@ -1,0 +1,450 @@
+{
+  "bonjour": {
+    "bm": "I ni sɔgɔma",
+    "audio": "data/audio/bonjour.mp3"
+  },
+  "bonsoir": {
+    "bm": "I ni wula",
+    "audio": null
+  },
+  "bonjour (milieu de journée)": {
+    "bm": "I ni tile",
+    "audio": null
+  },
+  "bon voyage": {
+    "bm": "Kà i ɲùman se !",
+    "audio": null
+  },
+  "merci": {
+    "bm": "I ni ce",
+    "audio": null
+  },
+  "comment allez-vous": {
+    "bm": "I ka kεnε wa ?",
+    "audio": null
+  },
+  "je vais bien": {
+    "bm": "N ka kεnε",
+    "audio": null
+  },
+  "je": {
+    "bm": "Ne",
+    "audio": null
+  },
+  "tu": {
+    "bm": "E",
+    "audio": null
+  },
+  "il": {
+    "bm": "A",
+    "audio": null
+  },
+  "elle": {
+    "bm": "A",
+    "audio": null
+  },
+  "nous": {
+    "bm": "Anw",
+    "audio": null
+  },
+  "vous": {
+    "bm": "Aw",
+    "audio": null
+  },
+  "ils": {
+    "bm": "Olu",
+    "audio": null
+  },
+  "elles": {
+    "bm": "Olu",
+    "audio": null
+  },
+  "personne": {
+    "bm": "Mɔgɔ",
+    "audio": null
+  },
+  "prénom": {
+    "bm": "Tɔgɔ",
+    "audio": null
+  },
+  "nom": {
+    "bm": "Jamu",
+    "audio": null
+  },
+  "homme": {
+    "bm": "Cὲ",
+    "audio": null
+  },
+  "femme": {
+    "bm": "Mùso",
+    "audio": null
+  },
+  "enfant": {
+    "bm": "Den",
+    "audio": null
+  },
+  "mère": {
+    "bm": "Ba",
+    "audio": null
+  },
+  "fleuve": {
+    "bm": "Ba",
+    "audio": null
+  },
+  "yeux": {
+    "bm": "ɲε",
+    "audio": null
+  },
+  "oreille": {
+    "bm": "tulo",
+    "audio": null
+  },
+  "tête": {
+    "bm": "kmnkolo",
+    "audio": null
+  },
+  "pieds": {
+    "bm": "sèn",
+    "audio": null
+  },
+  "dos": {
+    "bm": "kɔ",
+    "audio": null
+  },
+  "ventre": {
+    "bm": "kɔnɔbara",
+    "audio": null
+  },
+  "cuisse": {
+    "bm": "woro",
+    "audio": null
+  },
+  "cola": {
+    "bm": "wòro",
+    "audio": null
+  },
+  "année": {
+    "bm": "sàn",
+    "audio": null
+  },
+  "champ": {
+    "bm": "fòro",
+    "audio": null
+  },
+  "feu": {
+    "bm": "tasuma",
+    "audio": null
+  },
+  "eau": {
+    "bm": "ji",
+    "audio": null
+  },
+  "grammaire": {
+    "bm": "màbεn",
+    "audio": null
+  },
+  "mathématique": {
+    "bm": "jàtedɔnv",
+    "audio": null
+  },
+  "chimie": {
+    "bm": "basidɔn",
+    "audio": null
+  },
+  "physique": {
+    "bm": "bànkundɔn",
+    "audio": null
+  },
+  "biologie": {
+    "bm": "nimadɔn",
+    "audio": null
+  },
+  "géographie": {
+    "bm": "sìgidɔn",
+    "audio": null
+  },
+  "histoire": {
+    "bm": "tariku",
+    "audio": null
+  },
+  "âne": {
+    "bm": "fàli",
+    "audio": null
+  },
+  "mouton": {
+    "bm": "sàga",
+    "audio": null
+  },
+  "chat": {
+    "bm": "jàkuma",
+    "audio": null
+  },
+  "au revoir": {
+    "bm": "k’an bὲn",
+    "audio": null
+  },
+  "marché": {
+    "bm": "sugu",
+    "audio": null
+  },
+  "mariage": {
+    "bm": "furu",
+    "audio": null
+  },
+  "famille": {
+    "bm": "du",
+    "audio": null
+  },
+  "maison": {
+    "bm": "so",
+    "audio": null
+  },
+  "case": {
+    "bm": "buguso",
+    "audio": null
+  },
+  "courir": {
+    "bm": "ka bòli",
+    "audio": null
+  },
+  "marcher": {
+    "bm": "kà taama",
+    "audio": null
+  },
+  "écouter": {
+    "bm": "k’a lamεn",
+    "audio": null
+  },
+  "frapper": {
+    "bm": "k’a bugɔ",
+    "audio": null
+  },
+  "informer": {
+    "bm": "k’a ladɔnniya",
+    "audio": null
+  },
+  "arrêter": {
+    "bm": "kà jɔ",
+    "audio": null
+  },
+  "parler": {
+    "bm": "ka kuma",
+    "audio": null
+  },
+  "manger": {
+    "bm": "dun",
+    "audio": null
+  },
+  "nourriture": {
+    "bm": "dumuni",
+    "audio": null
+  },
+  "vendredi": {
+    "bm": "k’a fèere",
+    "audio": null
+  },
+  "aider": {
+    "bm": "k’a dὲmε",
+    "audio": null
+  },
+  "visage": {
+    "bm": "ɲεda",
+    "audio": null
+  },
+  "poitrine": {
+    "bm": "disi",
+    "audio": null
+  },
+  "entrer": {
+    "bm": "dòn",
+    "audio": null
+  },
+  "accepter": {
+    "bm": "sɔn",
+    "audio": null
+  },
+  "refuser": {
+    "bm": "bàn",
+    "audio": null
+  },
+  "bonne nuit": {
+    "bm": "kà dùgu ɲùman jε !",
+    "audio": null
+  },
+  "bonne journée": {
+    "bm": "kà tile hεεrε",
+    "audio": null
+  },
+  "bénédiction": {
+    "bm": "dùgawu",
+    "audio": null
+  },
+  "adjectif": {
+    "bm": "mànkutulan",
+    "audio": null
+  },
+  "pronom": {
+    "bm": "nɔnnabila",
+    "audio": null
+  },
+  "nez": {
+    "bm": "nun",
+    "audio": null
+  },
+  "bouche": {
+    "bm": "da",
+    "audio": null
+  },
+  "porte": {
+    "bm": "dònda",
+    "audio": null
+  },
+  "sortir": {
+    "bm": "kà bɔ",
+    "audio": null
+  },
+  "blanche": {
+    "bm": "jεman",
+    "audio": null
+  },
+  "noire": {
+    "bm": "fìnman",
+    "audio": null
+  },
+  "jaune": {
+    "bm": "nὲrε",
+    "audio": null
+  },
+  "bleu": {
+    "bm": "bula",
+    "audio": null
+  },
+  "vert": {
+    "bm": "binkεnε",
+    "audio": null
+  },
+  "riz": {
+    "bm": "màlo",
+    "audio": null
+  },
+  "maïs": {
+    "bm": "kàba",
+    "audio": null
+  },
+  "mil": {
+    "bm": "ɲɔ",
+    "audio": null
+  },
+  "petit mil": {
+    "bm": "sàɲɔ",
+    "audio": null
+  },
+  "coton": {
+    "bm": "kɔɔri",
+    "audio": null
+  },
+  "pluie": {
+    "bm": "sanji",
+    "audio": null
+  },
+  "photo": {
+    "bm": "jà",
+    "audio": null
+  },
+  "main": {
+    "bm": "tεgε",
+    "audio": null
+  },
+  "lumière": {
+    "bm": "yeelen",
+    "audio": null
+  },
+  "soleil": {
+    "bm": "tile",
+    "audio": null
+  },
+  "lune": {
+    "bm": "kalo",
+    "audio": null
+  },
+  "animal": {
+    "bm": "bagan",
+    "audio": null
+  },
+  "oiseau": {
+    "bm": "kɔnɔ",
+    "audio": null
+  },
+  "os": {
+    "bm": "kolo",
+    "audio": null
+  },
+  "cheveux": {
+    "bm": "kùnsigi",
+    "audio": null
+  },
+  "dent": {
+    "bm": "ɲin",
+    "audio": null
+  },
+  "langue (organe)": {
+    "bm": "nὲn",
+    "audio": null
+  },
+  "langue (langage)": {
+    "bm": "kan",
+    "audio": null
+  },
+  "chanson": {
+    "bm": "dɔnkili",
+    "audio": null
+  },
+  "danser": {
+    "bm": "kà dɔn kε",
+    "audio": null
+  },
+  "appeler": {
+    "bm": "weele",
+    "audio": null
+  },
+  "s’asseoir": {
+    "bm": "k’i sìgi",
+    "audio": null
+  },
+  "petit déjeuner": {
+    "bm": "dàraka",
+    "audio": null
+  },
+  "dîner": {
+    "bm": "surafana",
+    "audio": null
+  },
+  "déjeuner": {
+    "bm": "tilelafana",
+    "audio": null
+  },
+  "se rencontrer": {
+    "bm": "kà ɲɔgɔn ye",
+    "audio": null
+  },
+  "se saluer": {
+    "bm": "kà ɲɔgɔn fò",
+    "audio": null
+  },
+  "causer": {
+    "bm": "kà bàro kε",
+    "audio": null
+  },
+  "vêtement": {
+    "bm": "fini",
+    "audio": null
+  },
+  "s’habiller": {
+    "bm": "kà fìni dòn",
+    "audio": null
+  },
+  "se déshabiller": {
+    "bm": "kà fìni bɔ",
+    "audio": null
+  }
+}
